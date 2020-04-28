@@ -1,7 +1,8 @@
 # awesome-react-native-web
 
-Awesome React Native Web is an awesome style list that curates the best React Native Web libraries, tools, tutorials, articles and more. PRs are welcome!
+Awesome React Native Web is an awesome style list that curates the best [React Native Web](https://github.com/necolas/react-native-web) libraries, tools, tutorials, articles and more. PRs are welcome!
 
+This list focused on app/web could share the same code like react-native-web, or the library have implemented both on app/web.
 
 # Toturial
 
