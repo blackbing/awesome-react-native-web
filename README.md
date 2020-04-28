@@ -5,6 +5,7 @@ Awesome React Native Web is an awesome style list that curates the best React Na
 
 # Toturial
 
+* [Expo Web](https://baconbrix.gitbook.io/react-native-web/)
 * [Build Mobile-Friendly Web Apps with React Native Web
 ](https://www.digitalocean.com/community/tutorials/build-mobile-friendly-web-apps-with-react-native-web)
 
