@@ -27,6 +27,8 @@ Awesome React Native Web is an awesome style list that curates the best React Na
 * [react-native-web-webview](https://www.npmjs.com/package/react-native-web-webview) ![npm](https://img.shields.io/npm/dw/react-native-web-webview)  
 * [react-native-web-image-loader](https://www.npmjs.com/package/react-native-web-image-loader) ![npm](https://img.shields.io/npm/dw/react-native-web-image-loader)  
 * [react-native-web-image-maps](https://www.npmjs.com/package/react-native-web-maps) ![npm](https://img.shields.io/npm/dw/react-native-web-maps)  
+* [react-native-web-refresh-control](https://www.npmjs.com/package/react-native-web-refresh-control) ![npm](https://img.shields.io/npm/dw/react-native-web-refresh-control)  
+
 
 # Storage
 
