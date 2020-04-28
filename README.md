@@ -50,6 +50,10 @@ Awesome React Native Web is an awesome style list that curates the best React Na
         <td><img src="https://www.thetimes.co.uk/d/img/icons/icon_1_5x-a13ee0bf9a.png" width="32"></td>
         <td><a href="https://www.thetimes.co.uk/"/>https://www.thetimes.co.uk</a></td>
     </tr>
+    <tr>
+        <td><img src="https://devhubapp.com/static/favicon.ico" width="32"></td>
+        <td><a href="https://devhubapp.com/"/>https://devhubapp.com</a></td>
+    </tr>
 </table>
 
 
