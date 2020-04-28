@@ -46,6 +46,10 @@ Awesome React Native Web is an awesome style list that curates the best React Na
         <td><img src="https://abs.twimg.com/favicons/twitter.ico"></td>
         <td><a href="https://mobile.twitter.com"/>https://mobile.twitter.com</a></td>
     </tr>
+    <tr>
+        <td><img src="https://www.thetimes.co.uk/d/img/icons/favicon-ab3ea01fbe.ico"></td>
+        <td><a href="https://www.thetimes.co.uk/"/>https://www.thetimes.co.uk/</a></td>
+    </tr>
 </table>
 
 
